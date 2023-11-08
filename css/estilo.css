@@ -1,0 +1,97 @@
+/* Alteração na DIV Topo 
+
+seletor {propriedade:valor;}
+
+*/
+body {
+	background-color:;
+}
+
+#img-cab img { 
+	border: 5px solid black;
+	width: 100%;
+	}
+
+.menu {
+	font-family: sans-serif;
+	padding: 12px;
+	width: 100%;
+	margin-left: -60px;
+}
+
+#img-cab {
+	width: 99%;
+}
+
+.titulo h1 {
+	margin-top: 30px;
+	color: grey;
+	text-align: center;
+}
+
+.h2-index {
+	text-align: center;
+}
+
+.menu-item {
+	font-size: 0.9em;
+	display: block;
+	margin: 0 0.5em 0.5em 2em;
+	color: #000000;
+	text-decoration: none;
+}
+
+.menu-item:hover {
+	font-weight: bold;
+} 
+
+.menu ul {
+	list-style-type: none;
+	height: 80px;
+	width: 100%;
+	margin: auto;
+}
+
+.menu li {
+	float: left;
+}
+
+.imagem-autor {
+	float: left;
+	margin: 5px;
+	width: 20%;
+}
+
+.poesia p {
+	color: black;
+	font-family: Tahoma, sans-serif;
+	margin-left: 20px;
+	line-height: 1.5;
+}
+
+.biografia p {
+	color: black;
+	font-family: Tahoma, sans-serif;
+}
+
+.biografia h2 {
+	text-align: left;
+	clear: both;
+	font-family: Tahoma, sans-serif;
+	font-weight: normal;
+	padding-top: 13px;
+}
+
+.poesia h2 {
+	text-align: left;
+	clear: both;
+	font-family: Tahoma, sans-serif;
+	font-weight: normal;
+}
+
+.poesia h3 {
+	clear: both;
+	font-family: Tahoma, sans-serif;
+	font-weight: normal;
+	color: red;
+}
